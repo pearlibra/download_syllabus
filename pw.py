@@ -1,0 +1,5 @@
+download_path = '/Users/username/hoge'
+kibaco_user_id = ''
+kibaco_pw = ''
+campussquare_user_name = ''
+campussquare_pw = ''
